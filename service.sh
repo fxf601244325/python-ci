@@ -83,7 +83,7 @@ if [ $status -eq 2 ];then
     },
     "service_container_infos": [
         {
-            "image_path": "hub.c.163.com/your-username/your-image:'$image_tag2'",
+            "image_path": "hub.c.163.com/wanghongpeng0102/test:'$image_tag2'",
             "container_name": '$image_tag',
             "command": "",
             "envs": [
